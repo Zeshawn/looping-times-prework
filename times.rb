@@ -1,5 +1,7 @@
 def using_times(phrase)
-	#your code here
+	7.times do #your code here
+	puts phrase
+	end
 end
 
 
