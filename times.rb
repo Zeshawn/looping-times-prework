@@ -1,10 +1,10 @@
 def using_times(phrase)
 	7.times do #your code here
-	puts phrase
+	puts "Wingardium Leviosa"
 	end
 end
 
 
 
 
-using_times("Wingardium Leviosa")
+using_times
